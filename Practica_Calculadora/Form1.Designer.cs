@@ -29,13 +29,23 @@ namespace Practica_Calculadora
         /// </summary>
         private void InitializeComponent()
         {
+            this.plantillaCalculadora1 = new Practica_Calculadora.PlantillaCalculadora();
             this.SuspendLayout();
+            // 
+            // plantillaCalculadora1
+            // 
+            this.plantillaCalculadora1.BackColor = System.Drawing.Color.Black;
+            this.plantillaCalculadora1.Location = new System.Drawing.Point(58, 22);
+            this.plantillaCalculadora1.Name = "plantillaCalculadora1";
+            this.plantillaCalculadora1.Size = new System.Drawing.Size(371, 503);
+            this.plantillaCalculadora1.TabIndex = 0;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(614, 622);
+            this.Controls.Add(this.plantillaCalculadora1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -43,6 +53,8 @@ namespace Practica_Calculadora
         }
 
         #endregion
+
+        private PlantillaCalculadora plantillaCalculadora1;
     }
 }
 

@@ -60,11 +60,13 @@ namespace Practica_Calculadora
             // 
             // Pantalla
             // 
+            this.Pantalla.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Pantalla.Location = new System.Drawing.Point(33, 44);
             this.Pantalla.Multiline = true;
             this.Pantalla.Name = "Pantalla";
             this.Pantalla.Size = new System.Drawing.Size(303, 59);
             this.Pantalla.TabIndex = 0;
+            this.Pantalla.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // button1
             // 
@@ -131,7 +133,7 @@ namespace Practica_Calculadora
             this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button7.Location = new System.Drawing.Point(273, 346);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(63, 146);
+            this.button7.Size = new System.Drawing.Size(63, 121);
             this.button7.TabIndex = 7;
             this.button7.Text = "button7";
             this.button7.UseVisualStyleBackColor = true;

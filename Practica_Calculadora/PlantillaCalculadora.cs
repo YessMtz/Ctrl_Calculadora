@@ -50,6 +50,7 @@ namespace Practica_Calculadora
         {
             indice = 2;
             cifra = double.Parse(Pantalla.Text);
+            Pantalla.Clear();
         }
         
         //boton para multiplicar
