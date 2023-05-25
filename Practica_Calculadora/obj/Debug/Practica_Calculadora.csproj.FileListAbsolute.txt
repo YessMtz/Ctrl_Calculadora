@@ -1,0 +1,11 @@
+C:\Users\dell\Desktop\Practica_Calculadora\obj\Debug\Practica_Calculadora.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Practica_Calculadora\obj\Debug\Practica_Calculadora.PlantillaCalculadora.resources
+C:\Users\dell\Desktop\Practica_Calculadora\obj\Debug\Practica_Calculadora.Properties.Resources.resources
+C:\Users\dell\Desktop\Practica_Calculadora\obj\Debug\Practica_Calculadora.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Practica_Calculadora\obj\Debug\Practica_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Practica_Calculadora\bin\Debug\Practica_Calculadora.exe.config
+C:\Users\dell\Desktop\Practica_Calculadora\bin\Debug\Practica_Calculadora.exe
+C:\Users\dell\Desktop\Practica_Calculadora\bin\Debug\Practica_Calculadora.pdb
+C:\Users\dell\Desktop\Practica_Calculadora\obj\Debug\Practica_Calculadora.Form1.resources
+C:\Users\dell\Desktop\Practica_Calculadora\obj\Debug\Practica_Calculadora.exe
+C:\Users\dell\Desktop\Practica_Calculadora\obj\Debug\Practica_Calculadora.pdb
