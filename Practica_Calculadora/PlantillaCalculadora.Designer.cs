@@ -55,7 +55,6 @@ namespace Practica_Calculadora
             this.b1 = new System.Windows.Forms.Button();
             this.punto = new System.Windows.Forms.Button();
             this.b0 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Pantalla
@@ -365,33 +364,19 @@ namespace Practica_Calculadora
             this.b0.BackColor = System.Drawing.Color.Black;
             this.b0.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.b0.ForeColor = System.Drawing.Color.White;
-            this.b0.Location = new System.Drawing.Point(111, 413);
+            this.b0.Location = new System.Drawing.Point(33, 413);
             this.b0.Name = "b0";
-            this.b0.Size = new System.Drawing.Size(63, 54);
+            this.b0.Size = new System.Drawing.Size(141, 54);
             this.b0.TabIndex = 18;
             this.b0.Text = "0";
             this.b0.UseVisualStyleBackColor = false;
             this.b0.Click += new System.EventHandler(this.b0_Click);
-            // 
-            // button8
-            // 
-            this.button8.BackColor = System.Drawing.Color.Black;
-            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.ForeColor = System.Drawing.Color.White;
-            this.button8.Location = new System.Drawing.Point(33, 413);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(63, 54);
-            this.button8.TabIndex = 19;
-            this.button8.Text = "0";
-            this.button8.UseVisualStyleBackColor = false;
-            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // PlantillaCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.Controls.Add(this.button8);
             this.Controls.Add(this.b0);
             this.Controls.Add(this.punto);
             this.Controls.Add(this.b1);
@@ -453,6 +438,5 @@ namespace Practica_Calculadora
         private System.Windows.Forms.Button b1;
         private System.Windows.Forms.Button punto;
         private System.Windows.Forms.Button b0;
-        private System.Windows.Forms.Button button8;
     }
 }
